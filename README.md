@@ -1,4 +1,4 @@
-## There are my solutions for CS50P
+## This my final project for CS50P
 
 ## ⚠️Disclaimer:
 
